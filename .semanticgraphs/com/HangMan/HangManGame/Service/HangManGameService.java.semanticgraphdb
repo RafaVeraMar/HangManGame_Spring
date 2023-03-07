@@ -1,0 +1,191 @@
+
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.javaÑ
+2com.HangMan.HangManGame.Service.HangManGameServiceTRAIT|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (#"*
+packagecom.HangMan.HangManGame.Service"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"t
+declarationString_<mark class="modifier">public </mark><mark class="modifier">interface </mark>HangManGameService"
+accesspublic*HangManGameService2Œ
+Acom.HangMan.HangManGame.Service.HangManGameService.nuevaPartida()DECLARATION|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (2Å
+tcom.HangMan.HangManGame.Service.HangManGameService.intentarLetra(com.HangMan.HangManGame.Service.Impl.Partida, char)DECLARATION|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java	 	(2ê
+Çcom.HangMan.HangManGame.Service.HangManGameService.intentarPalabra(com.HangMan.HangManGame.Service.Impl.Partida, java.lang.String)DECLARATION|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (2Ü
+ycom.HangMan.HangManGame.Service.HangManGameService.obtenerLetrasDisponibles(com.HangMan.HangManGame.Service.Impl.Partida)DECLARATION|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (,2Œ
+Acom.HangMan.HangManGame.Service.HangManGameService.iniciarJuego()DECLARATION|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (2¯
+kcom.HangMan.HangManGame.Service.HangManGameService.jugarLetra(com.HangMan.HangManGame.Models.Palabra, char)DECLARATION|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (2Ü
+ycom.HangMan.HangManGame.Service.HangManGameService.jugarPalabra(com.HangMan.HangManGame.Models.Palabra, java.lang.String)DECLARATION|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (·
+Acom.HangMan.HangManGame.Service.HangManGameService.nuevaPartida()METHOD|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java ("
+isFinalfalse"f
+declarationStringQ<mark class="modifier"> </mark>Partida <mark class="method">nuevaPartida</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typePartida*nuevaPartida2π
+,com.HangMan.HangManGame.Service.Impl.PartidaRETURN_TYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (Å
+
+tcom.HangMan.HangManGame.Service.HangManGameService.intentarLetra(com.HangMan.HangManGame.Service.Impl.Partida, char)METHOD|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java	 	("
+isFinalfalse"ø
+declarationString©<mark class="modifier"> </mark>Partida <mark class="method">intentarLetra</mark>(Partida partida<mark class="modifier"><mark class="modifier">,</mark></mark> char letra)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typePartida*intentarLetra2á
+|com.HangMan.HangManGame.Service.HangManGameService.intentarLetra(com.HangMan.HangManGame.Service.Impl.Partida, char)!partida	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java	" 	()2Ö
+zcom.HangMan.HangManGame.Service.HangManGameService.intentarLetra(com.HangMan.HangManGame.Service.Impl.Partida, char)!letra	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java	0 	(52π
+,com.HangMan.HangManGame.Service.Impl.PartidaRETURN_TYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java	 	(é
+|com.HangMan.HangManGame.Service.HangManGameService.intentarLetra(com.HangMan.HangManGame.Service.Impl.Partida, char)!partida	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java	" 	()"
+typePartida"
+isFinalfalse"$
+declarationStringPartida partida*partida2≤
+,com.HangMan.HangManGame.Service.Impl.PartidaTYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java	 	(!⁄
+zcom.HangMan.HangManGame.Service.HangManGameService.intentarLetra(com.HangMan.HangManGame.Service.Impl.Partida, char)!letra	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java	0 	(5"
+typechar"
+isFinalfalse"
+declarationString
+char letra*letra2ä
+charTYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java	+ 	(/∏
+
+Çcom.HangMan.HangManGame.Service.HangManGameService.intentarPalabra(com.HangMan.HangManGame.Service.Impl.Partida, java.lang.String)METHOD|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java ("
+isFinalfalse"≈
+declarationStringØ<mark class="modifier"> </mark>Partida <mark class="method">intentarPalabra</mark>(Partida partida<mark class="modifier"><mark class="modifier">,</mark></mark> String palabra)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typePartida*intentarPalabra2ñ
+äcom.HangMan.HangManGame.Service.HangManGameService.intentarPalabra(com.HangMan.HangManGame.Service.Impl.Partida, java.lang.String)!partida	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java$ (+2ñ
+äcom.HangMan.HangManGame.Service.HangManGameService.intentarPalabra(com.HangMan.HangManGame.Service.Impl.Partida, java.lang.String)!palabra	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java4 (;2π
+,com.HangMan.HangManGame.Service.Impl.PartidaRETURN_TYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (ù
+äcom.HangMan.HangManGame.Service.HangManGameService.intentarPalabra(com.HangMan.HangManGame.Service.Impl.Partida, java.lang.String)!partida	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java$ (+"
+typePartida"
+isFinalfalse"$
+declarationStringPartida partida*partida2≤
+,com.HangMan.HangManGame.Service.Impl.PartidaTYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (#ˇ
+äcom.HangMan.HangManGame.Service.HangManGameService.intentarPalabra(com.HangMan.HangManGame.Service.Impl.Partida, java.lang.String)!palabra	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java4 (;"
+typeString"
+isFinalfalse"#
+declarationStringString palabra*palabra2ñ
+java.lang.StringTYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java- (3ı
+ycom.HangMan.HangManGame.Service.HangManGameService.obtenerLetrasDisponibles(com.HangMan.HangManGame.Service.Impl.Partida)METHOD|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (,"
+isFinalfalse"è
+declarationStringz<mark class="modifier"> </mark>List&lt;Character&gt; <mark class="method">obtenerLetrasDisponibles</mark>(Partida partida)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeList<Character>*obtenerLetrasDisponibles2ç
+Åcom.HangMan.HangManGame.Service.HangManGameService.obtenerLetrasDisponibles(com.HangMan.HangManGame.Service.Impl.Partida)!partida	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java5 (<2õ
+java.util.ListRETURN_TYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (2©
+java.lang.CharacterRETURN_TYPE_ARGUMENT|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java	 (î
+Åcom.HangMan.HangManGame.Service.HangManGameService.obtenerLetrasDisponibles(com.HangMan.HangManGame.Service.Impl.Partida)!partida	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java5 (<"
+typePartida"
+isFinalfalse"$
+declarationStringPartida partida*partida2≤
+,com.HangMan.HangManGame.Service.Impl.PartidaTYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java- (4€
+Acom.HangMan.HangManGame.Service.HangManGameService.iniciarJuego()METHOD|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java ("
+isFinalfalse"f
+declarationStringQ<mark class="modifier"> </mark>Palabra <mark class="method">iniciarJuego</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typePalabra*iniciarJuego2≥
+&com.HangMan.HangManGame.Models.PalabraRETURN_TYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (⁄	
+kcom.HangMan.HangManGame.Service.HangManGameService.jugarLetra(com.HangMan.HangManGame.Models.Palabra, char)METHOD|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java ("
+isFinalfalse"º
+declarationString¶<mark class="modifier"> </mark>Palabra <mark class="method">jugarLetra</mark>(Palabra palabra<mark class="modifier"><mark class="modifier">,</mark></mark> char letra)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typePalabra*
+jugarLetra2˛
+scom.HangMan.HangManGame.Service.HangManGameService.jugarLetra(com.HangMan.HangManGame.Models.Palabra, char)!palabra	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (&2¸
+qcom.HangMan.HangManGame.Service.HangManGameService.jugarLetra(com.HangMan.HangManGame.Models.Palabra, char)!letra	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java- (22≥
+&com.HangMan.HangManGame.Models.PalabraRETURN_TYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (ˇ
+scom.HangMan.HangManGame.Service.HangManGameService.jugarLetra(com.HangMan.HangManGame.Models.Palabra, char)!palabra	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (&"
+typePalabra"
+isFinalfalse"$
+declarationStringPalabra palabra*palabra2¨
+&com.HangMan.HangManGame.Models.PalabraTYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (—
+qcom.HangMan.HangManGame.Service.HangManGameService.jugarLetra(com.HangMan.HangManGame.Models.Palabra, char)!letra	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java- (2"
+typechar"
+isFinalfalse"
+declarationString
+char letra*letra2ä
+charTYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java( (,û
+
+ycom.HangMan.HangManGame.Service.HangManGameService.jugarPalabra(com.HangMan.HangManGame.Models.Palabra, java.lang.String)METHOD|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java ("
+isFinalfalse"…
+declarationString≥<mark class="modifier"> </mark>Palabra <mark class="method">jugarPalabra</mark>(Palabra palabra<mark class="modifier"><mark class="modifier">,</mark></mark> String palabraUsuario)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typePalabra*jugarPalabra2ç
+Åcom.HangMan.HangManGame.Service.HangManGameService.jugarPalabra(com.HangMan.HangManGame.Models.Palabra, java.lang.String)!palabra	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java! ((2î
+àcom.HangMan.HangManGame.Service.HangManGameService.jugarPalabra(com.HangMan.HangManGame.Models.Palabra, java.lang.String)!palabraUsuario	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java1 (?2≥
+&com.HangMan.HangManGame.Models.PalabraRETURN_TYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java (é
+Åcom.HangMan.HangManGame.Service.HangManGameService.jugarPalabra(com.HangMan.HangManGame.Models.Palabra, java.lang.String)!palabra	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java! (("
+typePalabra"
+isFinalfalse"$
+declarationStringPalabra palabra*palabra2¨
+&com.HangMan.HangManGame.Models.PalabraTYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java ( ã
+àcom.HangMan.HangManGame.Service.HangManGameService.jugarPalabra(com.HangMan.HangManGame.Models.Palabra, java.lang.String)!palabraUsuario	PARAMETER|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java1 (?"
+typeString"
+isFinalfalse"*
+declarationStringString palabraUsuario*palabraUsuario2ñ
+java.lang.StringTYPE|
+rC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/HangManGameService.java* (0

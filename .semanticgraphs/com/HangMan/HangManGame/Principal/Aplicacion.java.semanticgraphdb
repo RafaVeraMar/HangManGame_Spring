@@ -1,0 +1,35 @@
+
+lC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Principal\Aplicacion.java∞
+-com.HangMan.HangManGame.Principal.ApplicationCLASSv
+lC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Principal\Aplicacion.java (",
+package!com.HangMan.HangManGame.Principal"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"•
+declarationStringè<mark class="annotation">@SpringBootApplication</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>Application"
+accesspublic*Application2Õ
+Fcom.HangMan.HangManGame.Principal.Application.main(java.lang.String[])DECLARATIONv
+lC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Principal\Aplicacion.java (ã
+Fcom.HangMan.HangManGame.Principal.Application.main(java.lang.String[])METHODv
+lC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Principal\Aplicacion.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2À
+Kcom.HangMan.HangManGame.Principal.Application.main(java.lang.String[])!argsCALLv
+lC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Principal\Aplicacion.java1 (52–
+Kcom.HangMan.HangManGame.Principal.Application.main(java.lang.String[])!args	PARAMETERv
+lC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Principal\Aplicacion.java% ()2ã
+voidRETURN_TYPEv
+lC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Principal\Aplicacion.java (≥
+Kcom.HangMan.HangManGame.Principal.Application.main(java.lang.String[])!args	PARAMETERv
+lC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Principal\Aplicacion.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2í
+java.lang.String[]TYPEv
+lC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Principal\Aplicacion.java ($

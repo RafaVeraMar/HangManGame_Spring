@@ -1,5 +1,7 @@
 package com.HangMan.HangManGame.Models;
 
+import java.util.List;
+
 public class Palabra {
     private String valor;
     private List<Character> letrasAdivinadas;
@@ -26,6 +28,9 @@ public class Palabra {
 
     public void setLetrasAdivinadas(List<Character> letrasAdivinadas) {
         this.letrasAdivinadas = letrasAdivinadas;
+    }
+
+    public Object getPalabra() {
     }
 
     // Constructor, getters y setters

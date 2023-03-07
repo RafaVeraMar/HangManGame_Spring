@@ -1,14 +1,14 @@
 package com.HangMan.HangManGame.Controller;
 
 import com.HangMan.HangManGame.Models.Palabra;
-import com.HangMan.HangManGame.Service.Impl.JuegoAhorcadoService;
+import com.HangMan.HangManGame.Service.HangManGameService;
 import org.springframework.beans.factory.annotation.Autowired;
 
 @RestController
-@RequestMapping("/juego-ahorcado")
-public class JuegoAhorcadoController {
+@RequestMapping("/HangManGame")
+public class HangManGame {
     @Autowired
-    private JuegoAhorcadoService juegoAhorcadoService;
+    private HangManGameService juegoAhorcadoService;
 
     @GetMapping("/iniciar")
     public Palabra iniciarJuego() {

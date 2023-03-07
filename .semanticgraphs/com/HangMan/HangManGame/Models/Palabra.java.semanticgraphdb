@@ -1,0 +1,178 @@
+
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java˘
+&com.HangMan.HangManGame.Models.PalabraCLASSp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (")
+packagecom.HangMan.HangManGame.Models"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>Palabra"
+accesspublic*Palabra2¡
+@com.HangMan.HangManGame.Models.Palabra.Palabra(java.lang.String)DECLARATIONp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2‘
+Scom.HangMan.HangManGame.Models.Palabra.Palabra(java.util.List<java.lang.Character>)DECLARATIONp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2≤
+1com.HangMan.HangManGame.Models.Palabra.getValor()DECLARATIONp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2¬
+Acom.HangMan.HangManGame.Models.Palabra.setValor(java.lang.String)DECLARATIONp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2Ω
+<com.HangMan.HangManGame.Models.Palabra.getLetrasAdivinadas()DECLARATIONp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (.2‡
+_com.HangMan.HangManGame.Models.Palabra.setLetrasAdivinadas(java.util.List<java.lang.Character>)DECLARATIONp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (#2¥
+3com.HangMan.HangManGame.Models.Palabra.getPalabra()DECLARATIONp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java   (2∑
+6com.HangMan.HangManGame.Models.Palabra?valor@5.19:5.24DECLARATIONp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2¬
+Acom.HangMan.HangManGame.Models.Palabra?letrasAdivinadas@6.28:6.44DECLARATIONp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (,ü
+@com.HangMan.HangManGame.Models.Palabra.Palabra(java.lang.String)CONSTRUCTORp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java ("k
+declarationStringV<mark class="modifier">public </mark><mark class="method">Palabra</mark>(String valor)*Palabra2¿
+Fcom.HangMan.HangManGame.Models.Palabra.Palabra(java.lang.String)!valorCALLp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java	 	(2∞
+6com.HangMan.HangManGame.Models.Palabra?valor@5.19:5.24CALLp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java	 	(2≈
+Fcom.HangMan.HangManGame.Models.Palabra.Palabra(java.lang.String)!valor	PARAMETERp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2ß
+&com.HangMan.HangManGame.Models.PalabraRETURN_TYPEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (û
+Fcom.HangMan.HangManGame.Models.Palabra.Palabra(java.lang.String)!valor	PARAMETERp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java ("
+typeString"
+isFinalfalse"!
+declarationStringString valor*valor2ä
+java.lang.StringTYPEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (î	
+Scom.HangMan.HangManGame.Models.Palabra.Palabra(java.util.List<java.lang.Character>)CONSTRUCTORp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java ("Ö
+declarationStringp<mark class="modifier">public </mark><mark class="method">Palabra</mark>(List&lt;Character&gt; letrasAdivinadas)*Palabra2ﬁ
+dcom.HangMan.HangManGame.Models.Palabra.Palabra(java.util.List<java.lang.Character>)!letrasAdivinadasCALLp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java  (02ª
+Acom.HangMan.HangManGame.Models.Palabra?letrasAdivinadas@6.28:6.44CALLp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2„
+dcom.HangMan.HangManGame.Models.Palabra.Palabra(java.util.List<java.lang.Character>)!letrasAdivinadas	PARAMETERp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java# (32ß
+&com.HangMan.HangManGame.Models.PalabraRETURN_TYPEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (˚
+dcom.HangMan.HangManGame.Models.Palabra.Palabra(java.util.List<java.lang.Character>)!letrasAdivinadas	PARAMETERp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java# (3"
+typeList<Character>"
+isFinalfalse"5
+declarationString List<Character> letrasAdivinadas*letrasAdivinadas2à
+java.util.ListTYPEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2ñ
+java.lang.CharacterTYPE_ARGUMENTp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (!√
+1com.HangMan.HangManGame.Models.Palabra.getValor()METHODp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java ("
+isFinalfalse"g
+declarationStringR<mark class="modifier">public </mark>String <mark class="method">getValor</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getValor2∞
+6com.HangMan.HangManGame.Models.Palabra?valor@5.19:5.24CALLp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2ë
+java.lang.StringRETURN_TYPEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (˚
+Acom.HangMan.HangManGame.Models.Palabra.setValor(java.lang.String)METHODp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java ("
+isFinalfalse"è
+declarationStringz<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setValor</mark>(String valor)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setValor2¡
+Gcom.HangMan.HangManGame.Models.Palabra.setValor(java.lang.String)!valorCALLp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2∞
+6com.HangMan.HangManGame.Models.Palabra?valor@5.19:5.24CALLp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2∆
+Gcom.HangMan.HangManGame.Models.Palabra.setValor(java.lang.String)!valor	PARAMETERp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java  (%2Ö
+voidRETURN_TYPEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (ü
+Gcom.HangMan.HangManGame.Models.Palabra.setValor(java.lang.String)!valor	PARAMETERp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java  (%"
+typeString"
+isFinalfalse"!
+declarationStringString valor*valor2ä
+java.lang.StringTYPEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (¶
+<com.HangMan.HangManGame.Models.Palabra.getLetrasAdivinadas()METHODp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (."
+isFinalfalse"Å
+declarationStringl<mark class="modifier">public </mark>List&lt;Character&gt; <mark class="method">getLetrasAdivinadas</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeList<Character>*getLetrasAdivinadas2ª
+Acom.HangMan.HangManGame.Models.Palabra?letrasAdivinadas@6.28:6.44CALLp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2è
+java.util.ListRETURN_TYPEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2ù
+java.lang.CharacterRETURN_TYPE_ARGUMENTp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (ß
+
+_com.HangMan.HangManGame.Models.Palabra.setLetrasAdivinadas(java.util.List<java.lang.Character>)METHODp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (#"
+isFinalfalse"µ
+declarationStringü<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setLetrasAdivinadas</mark>(List&lt;Character&gt; letrasAdivinadas)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setLetrasAdivinadas2Í
+pcom.HangMan.HangManGame.Models.Palabra.setLetrasAdivinadas(java.util.List<java.lang.Character>)!letrasAdivinadasCALLp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java  (02ª
+Acom.HangMan.HangManGame.Models.Palabra?letrasAdivinadas@6.28:6.44CALLp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2Ô
+pcom.HangMan.HangManGame.Models.Palabra.setLetrasAdivinadas(java.util.List<java.lang.Character>)!letrasAdivinadas	PARAMETERp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java4 (D2Ö
+voidRETURN_TYPEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (á
+pcom.HangMan.HangManGame.Models.Palabra.setLetrasAdivinadas(java.util.List<java.lang.Character>)!letrasAdivinadas	PARAMETERp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java4 (D"
+typeList<Character>"
+isFinalfalse"5
+declarationString List<Character> letrasAdivinadas*letrasAdivinadas2à
+java.util.ListTYPEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java$ ((2ñ
+java.lang.CharacterTYPE_ARGUMENTp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java) (2ñ
+3com.HangMan.HangManGame.Models.Palabra.getPalabra()METHODp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java   ("
+isFinalfalse"i
+declarationStringT<mark class="modifier">public </mark>Object <mark class="method">getPalabra</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeObject*
+getPalabra2ë
+java.lang.ObjectRETURN_TYPEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java   (˙
+6com.HangMan.HangManGame.Models.Palabra?valor@5.19:5.24VARIABLEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java ("
+isFinalfalse"
+typeString"h
+declarationStringS<mark class="modifier">private </mark>String <mark class="class-field">valor</mark>"
+isStaticfalse"
+accessprivate*valor2ä
+java.lang.StringTYPEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (ƒ
+Acom.HangMan.HangManGame.Models.Palabra?letrasAdivinadas@6.28:6.44VARIABLEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (,"
+isFinalfalse"
+typeList<Character>"|
+declarationStringg<mark class="modifier">private </mark>List<Character> <mark class="class-field">letrasAdivinadas</mark>"
+isStaticfalse"
+accessprivate*letrasAdivinadas2à
+java.util.ListTYPEp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (2ñ
+java.lang.CharacterTYPE_ARGUMENTp
+fC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Models\Palabra.java (

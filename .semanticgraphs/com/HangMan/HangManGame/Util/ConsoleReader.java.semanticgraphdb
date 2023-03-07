@@ -1,0 +1,154 @@
+
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.javaê
+*com.HangMan.HangManGame.Util.ConsoleReaderCLASSt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java ("'
+packagecom.HangMan.HangManGame.Util"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"õ
+declarationStringÖ<mark class="annotation">@Component</mark> <br><mark class="modifier">public </mark><mark class="modifier">class </mark>ConsoleReader"
+accesspublic*ConsoleReader2ª
+6com.HangMan.HangManGame.Util.ConsoleReader.leerLetra()DECLARATIONt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java
+ 
+(2Ω
+8com.HangMan.HangManGame.Util.ConsoleReader.leerPalabra()DECLARATIONt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2¡
+<com.HangMan.HangManGame.Util.ConsoleReader?scanner@8.26:8.33DECLARATIONt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (!Ù
+6com.HangMan.HangManGame.Util.ConsoleReader.leerLetra()METHODt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java
+ 
+("
+isFinalfalse"f
+declarationStringQ<mark class="modifier">public </mark>char <mark class="method">leerLetra</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typechar*	leerLetra2©
++java.io.PrintStream.print(java.lang.String)CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2ú
+java.lang.String.toLowerCase()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java1 (<2ï
+java.lang.String.trim()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java* (.2ö
+java.util.Scanner.nextLine()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java ('2ó
+java.lang.String.length()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2†
+"java.lang.Character.isLetter(char)CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java1 (92ö
+java.lang.String.charAt(int)CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java@ (F2©
++java.io.PrintStream.print(java.lang.String)CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2ú
+java.lang.String.toLowerCase()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java. (92ï
+java.lang.String.trim()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java' (+2ö
+java.util.Scanner.nextLine()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java ($2ö
+java.lang.String.charAt(int)CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2∫
+<com.HangMan.HangManGame.Util.ConsoleReader?scanner@8.26:8.33CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2∆
+Hcom.HangMan.HangManGame.Util.ConsoleReader.leerLetra()?input@12.15:12.20CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2∆
+Hcom.HangMan.HangManGame.Util.ConsoleReader.leerLetra()?input@12.15:12.20CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java: (?2∆
+Hcom.HangMan.HangManGame.Util.ConsoleReader.leerLetra()?input@12.15:12.20CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2∫
+<com.HangMan.HangManGame.Util.ConsoleReader?scanner@8.26:8.33CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2∆
+Hcom.HangMan.HangManGame.Util.ConsoleReader.leerLetra()?input@12.15:12.20CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2Õ
+Hcom.HangMan.HangManGame.Util.ConsoleReader.leerLetra()?input@12.15:12.20DECLARATIONt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2â
+charRETURN_TYPEt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java
+ 
+(£	
+Hcom.HangMan.HangManGame.Util.ConsoleReader.leerLetra()?input@12.15:12.20VARIABLEt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java ("
+typeString"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark>String <mark class="class-field">input</mark> = scanner.nextLine().trim().toLowerCase()*input2é
+java.lang.StringTYPEt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2ú
+java.lang.String.toLowerCase()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java1 (<2ï
+java.lang.String.trim()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java* (.2ö
+java.util.Scanner.nextLine()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java ('2∫
+<com.HangMan.HangManGame.Util.ConsoleReader?scanner@8.26:8.33CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (Ï
+8com.HangMan.HangManGame.Util.ConsoleReader.leerPalabra()METHODt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java ("
+isFinalfalse"j
+declarationStringU<mark class="modifier">public </mark>String <mark class="method">leerPalabra</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*leerPalabra2©
++java.io.PrintStream.print(java.lang.String)CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2ú
+java.lang.String.toLowerCase()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java1 (<2ï
+java.lang.String.trim()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java* (.2ö
+java.util.Scanner.nextLine()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java ('2ó
+java.lang.String.length()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2©
++java.io.PrintStream.print(java.lang.String)CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2ú
+java.lang.String.toLowerCase()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java. (92ï
+java.lang.String.trim()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java' (+2ö
+java.util.Scanner.nextLine()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java ($2∫
+<com.HangMan.HangManGame.Util.ConsoleReader?scanner@8.26:8.33CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2»
+Jcom.HangMan.HangManGame.Util.ConsoleReader.leerPalabra()?input@22.15:22.20CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2»
+Jcom.HangMan.HangManGame.Util.ConsoleReader.leerPalabra()?input@22.15:22.20CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2∫
+<com.HangMan.HangManGame.Util.ConsoleReader?scanner@8.26:8.33CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2»
+Jcom.HangMan.HangManGame.Util.ConsoleReader.leerPalabra()?input@22.15:22.20CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2œ
+Jcom.HangMan.HangManGame.Util.ConsoleReader.leerPalabra()?input@22.15:22.20DECLARATIONt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2ï
+java.lang.StringRETURN_TYPEt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (•	
+Jcom.HangMan.HangManGame.Util.ConsoleReader.leerPalabra()?input@22.15:22.20VARIABLEt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java ("
+typeString"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark>String <mark class="class-field">input</mark> = scanner.nextLine().trim().toLowerCase()*input2é
+java.lang.StringTYPEt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2ú
+java.lang.String.toLowerCase()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java1 (<2ï
+java.lang.String.trim()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java* (.2ö
+java.util.Scanner.nextLine()CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java ('2∫
+<com.HangMan.HangManGame.Util.ConsoleReader?scanner@8.26:8.33CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (˙
+<com.HangMan.HangManGame.Util.ConsoleReader?scanner@8.26:8.33VALUEt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (!"
+isFinaltrue"
+typeScanner"™
+declarationStringî<mark class="modifier">private </mark><mark class="modifier">final </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in);"
+isStaticfalse"
+accessprivate*scanner2è
+java.util.ScannerTYPEt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java (2¨
+.java.util.Scanner.Scanner(java.io.InputStream)CALLt
+jC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Util\ConsoleReader.java( (/

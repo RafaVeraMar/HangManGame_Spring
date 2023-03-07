@@ -1,0 +1,26 @@
+
+tC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Repository\PalabraRepository.javaõ
+4com.HangMan.HangManGame.Repository.PalabraRepositoryTRAIT~
+tC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Repository\PalabraRepository.java (""-
+package"com.HangMan.HangManGame.Repository"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"s
+declarationString^<mark class="modifier">public </mark><mark class="modifier">interface </mark>PalabraRepository"
+accesspublic*PalabraRepository2’
+Fcom.HangMan.HangManGame.Repository.PalabraRepository.obtenerPalabras()DECLARATION~
+tC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Repository\PalabraRepository.java (!•
+Fcom.HangMan.HangManGame.Repository.PalabraRepository.obtenerPalabras()METHOD~
+tC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Repository\PalabraRepository.java (!"
+isFinalfalse"u
+declarationString`<mark class="modifier"> </mark>List&lt;Palabra&gt; <mark class="method">obtenerPalabras</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeList<Palabra>*obtenerPalabras2ù
+java.util.ListRETURN_TYPE~
+tC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Repository\PalabraRepository.java (2æ
+&com.HangMan.HangManGame.Models.PalabraRETURN_TYPE_ARGUMENT~
+tC:\Users\rafael.vera\Documents\-\HangManGame\src\main\java\com\HangMan\HangManGame\Repository\PalabraRepository.java	 (

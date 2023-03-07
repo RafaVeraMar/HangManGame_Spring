@@ -1,0 +1,24 @@
+
+sC:\Users\rafael.vera\Documents\-\HangManGame\src\test\java\com\HangMan\HangManGame\HangManGameApplicationTests.javaÒ
+3com.HangMan.HangManGame.HangManGameApplicationTestsCLASS}
+sC:\Users\rafael.vera\Documents\-\HangManGame\src\test\java\com\HangMan\HangManGame\HangManGameApplicationTests.java (!""
+packagecom.HangMan.HangManGame"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"¨
+declarationString’<mark class="annotation">@SpringBootTest</mark> <br><mark class="modifier"> </mark><mark class="modifier">class </mark>HangManGameApplicationTests"
+accesspackage_private*HangManGameApplicationTests2Ð
+Bcom.HangMan.HangManGame.HangManGameApplicationTests.contextLoads()DECLARATION}
+sC:\Users\rafael.vera\Documents\-\HangManGame\src\test\java\com\HangMan\HangManGame\HangManGameApplicationTests.java	 	(€
+Bcom.HangMan.HangManGame.HangManGameApplicationTests.contextLoads()METHOD}
+sC:\Users\rafael.vera\Documents\-\HangManGame\src\test\java\com\HangMan\HangManGame\HangManGameApplicationTests.java	 	("
+isFinalfalse"¬
+declarationString–<mark class="annotation">@Test</mark> <br><mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">contextLoads</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*contextLoads2’
+voidRETURN_TYPE}
+sC:\Users\rafael.vera\Documents\-\HangManGame\src\test\java\com\HangMan\HangManGame\HangManGameApplicationTests.java	 	(

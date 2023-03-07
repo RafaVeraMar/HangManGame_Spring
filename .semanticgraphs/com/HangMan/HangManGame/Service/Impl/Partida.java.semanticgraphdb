@@ -1,0 +1,140 @@
+
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java≤
+,com.HangMan.HangManGame.Service.Impl.PartidaCLASSv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java ("/
+package$com.HangMan.HangManGame.Service.Impl"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>Partida"
+accesspublic*Partida2∆
+?com.HangMan.HangManGame.Service.Impl.Partida.getPalabraOculta()DECLARATIONv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java ("2÷
+Ocom.HangMan.HangManGame.Service.Impl.Partida.setPalabraOculta(java.lang.String)DECLARATIONv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java ( 2∆
+?com.HangMan.HangManGame.Service.Impl.Partida.setGanada(boolean)DECLARATIONv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java	 	(2«
+@com.HangMan.HangManGame.Service.Impl.Partida.setPerdida(boolean)DECLARATIONv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java (2 
+Ccom.HangMan.HangManGame.Service.Impl.Partida.getIntentosRestantes()DECLARATIONv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java (#2¿
+9com.HangMan.HangManGame.Service.Impl.Partida.getPalabra()DECLARATIONv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java (2Õ
+Fcom.HangMan.HangManGame.Service.Impl.Partida.setIntentosRestantes(int)DECLARATIONv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java ($∫
+?com.HangMan.HangManGame.Service.Impl.Partida.getPalabraOculta()METHODv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java (""
+isFinalfalse"o
+declarationStringZ<mark class="modifier">public </mark>String <mark class="method">getPalabraOculta</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*getPalabraOculta2ó
+java.lang.StringRETURN_TYPEv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java (”
+Ocom.HangMan.HangManGame.Service.Impl.Partida.setPalabraOculta(java.lang.String)METHODv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java ( "
+isFinalfalse"†
+declarationStringä<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setPalabraOculta</mark>(String palabraOculta)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setPalabraOculta2‚
+]com.HangMan.HangManGame.Service.Impl.Partida.setPalabraOculta(java.lang.String)!palabraOculta	PARAMETERv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java( (52ã
+voidRETURN_TYPEv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java (—
+]com.HangMan.HangManGame.Service.Impl.Partida.setPalabraOculta(java.lang.String)!palabraOculta	PARAMETERv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java( (5"
+typeString"
+isFinalfalse")
+declarationStringString palabraOculta*palabraOculta2ê
+java.lang.StringTYPEv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java! ('¨
+?com.HangMan.HangManGame.Service.Impl.Partida.setGanada(boolean)METHODv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java	 	("
+isFinalfalse"¨
+declarationStringñ<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setGanada</mark>(<mark class="modifier">boolean</mark> b)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*	setGanada2∆
+Acom.HangMan.HangManGame.Service.Impl.Partida.setGanada(boolean)!b	PARAMETERv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java	" 	(#2ã
+voidRETURN_TYPEv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java	 	(¥
+Acom.HangMan.HangManGame.Service.Impl.Partida.setGanada(boolean)!b	PARAMETERv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java	" 	(#"
+typeboolean"
+isFinalfalse"<
+declarationString'<mark class="modifier">boolean</mark> b*b2á
+booleanTYPEv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java	 	(!∞
+@com.HangMan.HangManGame.Service.Impl.Partida.setPerdida(boolean)METHODv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java ("
+isFinalfalse"≠
+declarationStringó<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setPerdida</mark>(<mark class="modifier">boolean</mark> b)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*
+setPerdida2«
+Bcom.HangMan.HangManGame.Service.Impl.Partida.setPerdida(boolean)!b	PARAMETERv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java# ($2ã
+voidRETURN_TYPEv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java (µ
+Bcom.HangMan.HangManGame.Service.Impl.Partida.setPerdida(boolean)!b	PARAMETERv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java# ($"
+typeboolean"
+isFinalfalse"<
+declarationString'<mark class="modifier">boolean</mark> b*b2á
+booleanTYPEv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java ("“
+Ccom.HangMan.HangManGame.Service.Impl.Partida.getIntentosRestantes()METHODv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java (#"
+isFinalfalse"é
+declarationStringy<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">getIntentosRestantes</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*getIntentosRestantes2ä
+intRETURN_TYPEv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java (®
+9com.HangMan.HangManGame.Service.Impl.Partida.getPalabra()METHODv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java ("
+isFinalfalse"i
+declarationStringT<mark class="modifier">public </mark>Object <mark class="method">getPalabra</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeObject*
+getPalabra2ó
+java.lang.ObjectRETURN_TYPEv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java (Ã
+Fcom.HangMan.HangManGame.Service.Impl.Partida.setIntentosRestantes(int)METHODv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java ($"
+isFinalfalse"≥
+declarationStringù<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setIntentosRestantes</mark>(<mark class="modifier">int</mark> i)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setIntentosRestantes2Õ
+Hcom.HangMan.HangManGame.Service.Impl.Partida.setIntentosRestantes(int)!i	PARAMETERv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java) (*2ã
+voidRETURN_TYPEv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java (Ø
+Hcom.HangMan.HangManGame.Service.Impl.Partida.setIntentosRestantes(int)!i	PARAMETERv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java) (*"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> i*i2É
+intTYPEv
+lC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Service/Impl/Partida.java% ((

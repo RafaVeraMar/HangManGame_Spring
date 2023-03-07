@@ -35,3 +35,36 @@ public class PalabraRepositoryFileImpl implements PalabraRepository {
     }
 
 }
+
+//* import java.util.ArrayList;
+//import java.util.List;
+//import java.util.Random;
+//
+//public class GeneradorPalabras {
+//    public static void main(String[] args) {
+//        List<String> palabras = new ArrayList<>();
+//        palabras.add("manzana");
+//        palabras.add("pera");
+//        palabras.add("platano");
+//        palabras.add("sandia");
+//        palabras.add("naranja");
+//        palabras.add("limon");
+//        palabras.add("fresa");
+//        palabras.add("uva");
+//        palabras.add("piña");
+//        palabras.add("melon");
+//
+//        Random random = new Random();
+//        List<String> palabrasAleatorias = new ArrayList<>();
+//        for (int i = 0; i < 10; i++) {
+//            int index = random.nextInt(palabras.size());
+//            palabrasAleatorias.add(palabras.get(index));
+//            palabras.remove(index);
+//        }
+//
+//        // Imprime las palabras aleatorias
+//        for (String palabra : palabrasAleatorias) {
+//            System.out.println(palabra);
+//        }
+//    }
+//}/*/
