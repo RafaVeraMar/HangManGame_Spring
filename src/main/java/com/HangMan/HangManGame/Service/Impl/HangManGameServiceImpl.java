@@ -17,7 +17,7 @@ public class HangManGameServiceImpl implements HangManGameService {
     @Autowired
     private PalabraRepository palabraRepository;
 
-    private static final int NUMERO_INTENTOS = 8;
+    private static final int NUMEROINTENTOS = 8;
 
     @Override
     public Partida nuevaPartida() {

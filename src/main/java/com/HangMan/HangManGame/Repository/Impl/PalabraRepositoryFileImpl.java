@@ -18,7 +18,7 @@ public class PalabraRepositoryFileImpl implements PalabraRepository {
     private String archivoPalabras;
 
     @Override
-    public List<Palabra> obtenerPalabras() {
+    public void obtenerPalabras() {
         List<Palabra> palabras = new ArrayList<>();
         try (BufferedReader br = new BufferedReader(new FileReader(archivoPalabras))) {
             String linea;
