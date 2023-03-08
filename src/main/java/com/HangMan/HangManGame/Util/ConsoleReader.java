@@ -10,18 +10,18 @@ public class ConsoleReader {
     public void init() {
 
          System.out.print("Introduce una letra: ");
-         String input = scanner.nextLine().trim().toLowerCase();
-         while (input.length() != 1 || !Character.isLetter(input.charAt(0))) {
+         String inputLetra = scanner.nextLine().trim().toLowerCase();
+         while (inputLetra.length() != 1 || !Character.isLetter(inputLetra.charAt(0))) {
              System.out.print("Entrada no válida. Introduce una letra: ");
-             input = scanner.nextLine().trim().toLowerCase();
+             inputLetra = scanner.nextLine().trim().toLowerCase();
             }
 
 
          System.out.print("Introduce una palabra: ");
-         String input = scanner.nextLine().trim().toLowerCase();
-         while (input.length() == 0) {
+         String inputPalabra = scanner.nextLine().trim().toLowerCase();
+         while (inputPalabra.length() == 0) {
              System.out.print("Entrada no válida. Introduce una palabra: ");
-             input = scanner.nextLine().trim().toLowerCase();
+             inputPalabra = scanner.nextLine().trim().toLowerCase();
             }
 
 
