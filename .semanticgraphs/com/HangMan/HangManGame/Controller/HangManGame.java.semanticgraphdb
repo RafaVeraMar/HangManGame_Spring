@@ -1,5 +1,5 @@
 
-nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.javaπ
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java∑
 .com.HangMan.HangManGame.Controller.HangManGameCLASSx
 nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java ("-
 package"com.HangMan.HangManGame.Controller"
@@ -14,11 +14,11 @@ nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManG
 gcom.HangMan.HangManGame.Controller.HangManGame.jugarLetra(com.HangMan.HangManGame.Models.Palabra, char)DECLARATIONx
 nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java (2˛
 ucom.HangMan.HangManGame.Controller.HangManGame.jugarPalabra(com.HangMan.HangManGame.Models.Palabra, java.lang.String)DECLARATIONx
-nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java (2ÿ
-Ocom.HangMan.HangManGame.Controller.HangManGame?juegoAhorcadoService@10.31:10.51DECLARATIONx
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java (2÷
+Mcom.HangMan.HangManGame.Controller.HangManGame?HangManGameService@10.31:10.49DECLARATIONx
 nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java
  
-(3ﬁ
+(1¢
 =com.HangMan.HangManGame.Controller.HangManGame.iniciarJuego()METHODx
 nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java ("
 isFinalfalse"©
@@ -27,11 +27,13 @@ nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManG
 accesspublic"
 
 isAbstractfalse"
-typePalabra*iniciarJuego2—
-Ocom.HangMan.HangManGame.Controller.HangManGame?juegoAhorcadoService@10.31:10.51CALLx
-nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java (#2Ø
+typePalabra*iniciarJuego2√
+Acom.HangMan.HangManGame.Service.HangManGameService.iniciarJuego()CALLx
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java" (.2œ
+Mcom.HangMan.HangManGame.Controller.HangManGame?HangManGameService@10.31:10.49CALLx
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java (!2Ø
 &com.HangMan.HangManGame.Models.PalabraRETURN_TYPEx
-nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java (–
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java (æ
 gcom.HangMan.HangManGame.Controller.HangManGame.jugarLetra(com.HangMan.HangManGame.Models.Palabra, char)METHODx
 nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java ("
 isFinalfalse"ù
@@ -41,13 +43,15 @@ nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManG
 
 isAbstractfalse"
 typePalabra*
-jugarLetra2—
-Ocom.HangMan.HangManGame.Controller.HangManGame?juegoAhorcadoService@10.31:10.51CALLx
-nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java (#2Ò
+jugarLetra2Ì
+kcom.HangMan.HangManGame.Service.HangManGameService.jugarLetra(com.HangMan.HangManGame.Models.Palabra, char)CALLx
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java" (,2œ
+Mcom.HangMan.HangManGame.Controller.HangManGame?HangManGameService@10.31:10.49CALLx
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java (!2Ò
 ocom.HangMan.HangManGame.Controller.HangManGame.jugarLetra(com.HangMan.HangManGame.Models.Palabra, char)!palabraCALLx
-nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java/ (62Ô
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java- (42Ô
 mcom.HangMan.HangManGame.Controller.HangManGame.jugarLetra(com.HangMan.HangManGame.Models.Palabra, char)!letraCALLx
-nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java8 (=2ˆ
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java6 (;2ˆ
 ocom.HangMan.HangManGame.Controller.HangManGame.jugarLetra(com.HangMan.HangManGame.Models.Palabra, char)!palabra	PARAMETERx
 nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java3 (:2Ù
 mcom.HangMan.HangManGame.Controller.HangManGame.jugarLetra(com.HangMan.HangManGame.Models.Palabra, char)!letra	PARAMETERx
@@ -67,7 +71,7 @@ nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManG
 isFinalfalse"M
 declarationString8<mark class="annotation">@RequestParam</mark> char letra*letra2Ü
 charTYPEx
-nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.javaJ (N∑
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.javaJ (N≥
 ucom.HangMan.HangManGame.Controller.HangManGame.jugarPalabra(com.HangMan.HangManGame.Models.Palabra, java.lang.String)METHODx
 nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java ("
 isFinalfalse"®
@@ -76,13 +80,15 @@ nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManG
 accesspublic"
 
 isAbstractfalse"
-typePalabra*jugarPalabra2—
-Ocom.HangMan.HangManGame.Controller.HangManGame?juegoAhorcadoService@10.31:10.51CALLx
-nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java (#2ˇ
+typePalabra*jugarPalabra2˚
+ycom.HangMan.HangManGame.Service.HangManGameService.jugarPalabra(com.HangMan.HangManGame.Models.Palabra, java.lang.String)CALLx
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java" (.2œ
+Mcom.HangMan.HangManGame.Controller.HangManGame?HangManGameService@10.31:10.49CALLx
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java (!2ˇ
 }com.HangMan.HangManGame.Controller.HangManGame.jugarPalabra(com.HangMan.HangManGame.Models.Palabra, java.lang.String)!palabraCALLx
-nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java1 (82á
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java/ (62á
 Ñcom.HangMan.HangManGame.Controller.HangManGame.jugarPalabra(com.HangMan.HangManGame.Models.Palabra, java.lang.String)!palabraUsuarioCALLx
-nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java: (H2Ñ
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java8 (F2Ñ
 }com.HangMan.HangManGame.Controller.HangManGame.jugarPalabra(com.HangMan.HangManGame.Models.Palabra, java.lang.String)!palabra	PARAMETERx
 nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java5 (<2å
 Ñcom.HangMan.HangManGame.Controller.HangManGame.jugarPalabra(com.HangMan.HangManGame.Models.Palabra, java.lang.String)!palabraUsuario	PARAMETERx
@@ -102,17 +108,17 @@ nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManG
 isFinalfalse"X
 declarationStringC<mark class="annotation">@RequestParam</mark> String palabraUsuario*palabraUsuario2í
 java.lang.StringTYPEx
-nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.javaL (R‹
-Ocom.HangMan.HangManGame.Controller.HangManGame?juegoAhorcadoService@10.31:10.51VARIABLEx
+nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.javaL (Rˆ
+Mcom.HangMan.HangManGame.Controller.HangManGame?HangManGameService@10.31:10.49VARIABLEx
 nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java
  
-(3"
+(1"
 isFinalfalse"
-typeHangManGameService"É
-declarationStringn<mark class="modifier">private </mark>HangManGameService <mark class="class-field">juegoAhorcadoService</mark>"
+typeHangManGameService"Å
+declarationStringl<mark class="modifier">private </mark>HangManGameService <mark class="class-field">HangManGameService</mark>"
 isStaticfalse"
-accessprivate*juegoAhorcadoService2î
-HangManGameServiceTYPEx
+accessprivate*HangManGameService2¥
+2com.HangMan.HangManGame.Service.HangManGameServiceTYPEx
 nC:/Users/rafael.vera/Documents/-/HangManGame/src/main/java/com/HangMan/HangManGame/Controller/HangManGame.java
  
 (

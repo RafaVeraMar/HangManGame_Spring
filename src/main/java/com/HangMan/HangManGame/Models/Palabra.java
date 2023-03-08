@@ -31,7 +31,7 @@ public class Palabra {
     }
 
     public Object getPalabra() {
+        return null;
     }
 
-    // Constructor, getters y setters
-}
+   }

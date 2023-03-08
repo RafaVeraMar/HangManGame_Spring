@@ -4,24 +4,23 @@ import com.HangMan.HangManGame.Models.Palabra;
 import com.HangMan.HangManGame.Service.HangManGameService;
 import org.springframework.beans.factory.annotation.Autowired;
 
-@RestController
-@RequestMapping("/HangManGame")
+
 public class HangManGame {
     @Autowired
-    private HangManGameService juegoAhorcadoService;
+    private HangManGameService HangManGameService;
 
-    @GetMapping("/iniciar")
+
     public Palabra iniciarJuego() {
-        return juegoAhorcadoService.iniciarJuego();
+        return HangManGameService.iniciarJuego();
     }
 
-    @PostMapping("/jugar-letra")
-    public Palabra jugarLetra(@RequestBody Palabra palabra, @RequestParam char letra) {
-        return juegoAhorcadoService.jugarLetra(palabra, letra);
+
+    public Palabra jugarLetra(Palabra palabra, char letra) {
+        return HangManGameService.jugarLetra(palabra, letra);
     }
 
-    @PostMapping("/jugar-palabra")
-    public Palabra jugarPalabra(@RequestBody Palabra palabra, @RequestParam String palabraUsuario) {
-        return juegoAhorcadoService.jugarPalabra(palabra, palabraUsuario);
+
+    public Palabra jugarPalabra( Palabra palabra, String palabraUsuario) {
+        return HangManGameService.jugarPalabra(palabra, palabraUsuario);
     }
 }
