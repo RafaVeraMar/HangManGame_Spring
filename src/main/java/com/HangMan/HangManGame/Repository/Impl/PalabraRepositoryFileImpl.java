@@ -4,6 +4,7 @@ import com.HangMan.HangManGame.Models.Palabra;
 import com.HangMan.HangManGame.Repository.PalabraRepository;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -11,14 +12,15 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-@Component
+@Repository
 public class PalabraRepositoryFileImpl implements PalabraRepository {
 
     @Value("${palabras.archivo}")
     private String archivoPalabras;
 
+
     @Override
-    public void obtenerPalabras() {
+    public List<Palabra> obtenerPalabras() {
         List<Palabra> palabras = new ArrayList<>();
         try (BufferedReader br = new BufferedReader(new FileReader(archivoPalabras))) {
             String linea;

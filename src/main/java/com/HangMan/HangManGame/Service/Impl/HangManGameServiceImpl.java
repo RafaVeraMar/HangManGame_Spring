@@ -14,7 +14,7 @@ import java.util.Random;
 @Service
 public class HangManGameServiceImpl implements HangManGameService {
 
-    @Autowired
+
     private PalabraRepository palabraRepository;
 
     private static final int NUMEROINTENTOS = 8;

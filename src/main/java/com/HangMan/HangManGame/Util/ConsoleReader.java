@@ -1,14 +1,22 @@
 package com.HangMan.HangManGame.Util;
 
+import com.HangMan.HangManGame.Service.HangManGameService;
 import org.springframework.stereotype.Component;
 
+import javax.annotation.PostConstruct;
 import java.util.Scanner;
 
 @Component
 public class ConsoleReader {
-    public Scanner scanner = new Scanner(System.in);
-    public void init() {
 
+    private HangManGameService hangManGameService;
+    public ConsoleReader(HangManGameService hangManGameService){
+        this.hangManGameService = hangManGameService;
+    }
+
+    @PostConstruct
+    public void init() {
+         Scanner scanner = new Scanner(System.in);
          System.out.print("Introduce una letra: ");
          String inputLetra = scanner.nextLine().trim().toLowerCase();
          while (inputLetra.length() != 1 || !Character.isLetter(inputLetra.charAt(0))) {
